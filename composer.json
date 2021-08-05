@@ -1,0 +1,25 @@
+{
+    "name": "hex-abyss/duplicate",
+    "description": "To check is duplicate process",
+    "keywords": ["console", "process", "duplicate", "duplicate process", "stop process", "stop fork process", "stop other process"],
+    "license": "MIT",
+    "homepage": "https://github.com/hex-abyss/duplicate",
+    "authors": [
+        {
+            "name": "Dima Levischenko",
+            "email": "dimalevischenko@gmail.com"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/hex-abyss/duplicate/issues?state=open",
+        "source": "https://github.com/hex-abyss/duplicate"
+    },
+    "autoload": {
+        "psr-4": {
+            "hexAbyss\\": "src"
+        }
+    },
+    "require": {
+        "php": ">5.2"
+    }
+}
